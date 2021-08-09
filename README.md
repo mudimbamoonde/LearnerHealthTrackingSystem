@@ -51,3 +51,5 @@
       - Evaluation Method
       - TotalNumber of Pupils in attendance
       - Learner
+
+- Designed and Developed by Mudimba Moonde and Justinah
